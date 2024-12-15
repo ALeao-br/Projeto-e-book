@@ -3,7 +3,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o Bootcamp Caixa na plataforma da [DIO](https://dio.me)
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="(https://github.com/ALeao-br/Projeto-e-book/blob/main/output/Projeto%20e-book%20Intelig%C3%AAncia%20Artificial.pdf)" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -45,4 +45,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 
 ⌨️ com 💜 por [Alessandra Leão](https://github.com/ALeao-br)
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/ALeao-br/Projeto-e-book/blob/main/output/Projeto%20e-book%20Intelig%C3%AAncia%20Artificial.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
