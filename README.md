@@ -36,7 +36,7 @@ Leonardo.ai：
 
 ## 📚 Materiais
 
-- Imagens utilizadas - de 1 a 6
+- Imagens utilizadas - de 1 a 6 em `Imagens`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
